@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive machine learning case study divided into six parts, each focusing on a different core concept in regression, kernel methods, optimization, regularization, and Bayesian learning. The study is performed using synthetic datasets designed to reveal fundamental insights into model behavior, learning dynamics, and generalization.
 
-##**The case study is divided into six parts:**
+## **The case study is divided into six parts:**
  
 ##**Understanding Error Surfaces**: This section involves generating noisy data based on a height-weight relationship, fitting a linear model using least squares, and analyzing the error surface to estimate and compare model parameters.
  
